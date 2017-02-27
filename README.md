@@ -1,7 +1,6 @@
 Data structures applied to advanced exploration algorithms for automated inspection of large structures using aerial robot
 =============================================================================================================================
 
-http://octomap.github.io
 
 Developed by M. Faria, in the context of MarineUAS program, Innovative Training Network in Autonomous Unmanned Aerial Systems for Marine and Costal Monitoring.
 
